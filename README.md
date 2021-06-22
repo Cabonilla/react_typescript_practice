@@ -8,4 +8,5 @@ A small sandbox repo for using Typescript with react.
 
 - Advantages of Typescript.
 - Working with multiple different javascript types. 
-- Handling submission and styling of Typescript projects. 
+- Handling submission and styling of Typescript projects.
+- Using react hooks with Typescript.  
