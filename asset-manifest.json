@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react_tac_toe/static/css/main.5b3d6ab3.chunk.css",
-    "main.js": "/react_tac_toe/static/js/main.ebf23427.chunk.js",
-    "main.js.map": "/react_tac_toe/static/js/main.ebf23427.chunk.js.map",
-    "runtime-main.js": "/react_tac_toe/static/js/runtime-main.fa196759.js",
-    "runtime-main.js.map": "/react_tac_toe/static/js/runtime-main.fa196759.js.map",
-    "static/js/2.ea99b322.chunk.js": "/react_tac_toe/static/js/2.ea99b322.chunk.js",
-    "static/js/2.ea99b322.chunk.js.map": "/react_tac_toe/static/js/2.ea99b322.chunk.js.map",
-    "index.html": "/react_tac_toe/index.html",
-    "static/css/main.5b3d6ab3.chunk.css.map": "/react_tac_toe/static/css/main.5b3d6ab3.chunk.css.map",
-    "static/js/2.ea99b322.chunk.js.LICENSE.txt": "/react_tac_toe/static/js/2.ea99b322.chunk.js.LICENSE.txt"
+    "main.css": "/react_typescript_practice/static/css/main.5b3d6ab3.chunk.css",
+    "main.js": "/react_typescript_practice/static/js/main.ebf23427.chunk.js",
+    "main.js.map": "/react_typescript_practice/static/js/main.ebf23427.chunk.js.map",
+    "runtime-main.js": "/react_typescript_practice/static/js/runtime-main.4eb8501f.js",
+    "runtime-main.js.map": "/react_typescript_practice/static/js/runtime-main.4eb8501f.js.map",
+    "static/js/2.ea99b322.chunk.js": "/react_typescript_practice/static/js/2.ea99b322.chunk.js",
+    "static/js/2.ea99b322.chunk.js.map": "/react_typescript_practice/static/js/2.ea99b322.chunk.js.map",
+    "index.html": "/react_typescript_practice/index.html",
+    "static/css/main.5b3d6ab3.chunk.css.map": "/react_typescript_practice/static/css/main.5b3d6ab3.chunk.css.map",
+    "static/js/2.ea99b322.chunk.js.LICENSE.txt": "/react_typescript_practice/static/js/2.ea99b322.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa196759.js",
+    "static/js/runtime-main.4eb8501f.js",
     "static/js/2.ea99b322.chunk.js",
     "static/css/main.5b3d6ab3.chunk.css",
     "static/js/main.ebf23427.chunk.js"
